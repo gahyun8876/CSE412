@@ -16,7 +16,7 @@ public class Restaurant {
 
   // Constructor
   public Restaurant() {
-	this.RestaurantID = "?";
+    this.RestaurantID = "?";
     this.RestaurantName = "?";
     this.Address = "";
     this.CustomerRating = 0;
