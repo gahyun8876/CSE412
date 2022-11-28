@@ -1,5 +1,4 @@
 # CSE-412-Project
-Manual:
 
 For searching a restaurant:
 1. Users can search for a restaurant by using any of restaurant name, address, food type, average rating, average cost, or food name.
@@ -11,6 +10,8 @@ For rating a restaurant:
 1. Users have to select a restaurant and a score in order to rate.
 2. If a user rates a restaurant multiple times, the lastest record will be used to calculate the average rating and the old record will be deleted.
 3. The new user's phone number will be added to the users list when they rate a restaurant.
+
+User manual is included in the report.
 
 Test cases(with images):
 https://docs.google.com/document/d/13W9RSqBs02RhL_4_CsBGlD0mZTa_pMNJI8YzfX7x4eQ/edit?usp=sharing
