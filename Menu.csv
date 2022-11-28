@@ -1,0 +1,10 @@
+Restaurant_ID,Menu_ID,Food_Type
+r0,m0,Burger
+r0,m1,Sandwich
+r0,m2,Chicken
+r0,m3,Beverage
+r1,m0,Noodle
+r1,m1,Rice
+r1,m2,Curry
+r2,m0,Sandwich
+r2,m1,Platter
